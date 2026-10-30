@@ -1,0 +1,14 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [],
+  "lives": [
+    {
+      "name": "IPTV直播",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/vbskycn/iptv@master/tv/iptv4.m3u",
+      "ua": "okhttp",
+      "epg": ""
+    }
+  ]
+}
